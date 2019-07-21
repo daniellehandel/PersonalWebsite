@@ -31,7 +31,7 @@ This “flipped classroom” will comprise a set of materials that include:
 -	Examples and practice learning materials built in R/RMarkdown that students can download and learn both principles and applications, primarily centered around real-world data and examples,
 -	Lecture and teaching materials from the newly-added “lab” component of the Statistics & Econometrics sequence which teaches students the foundational programming tools for statistical and econometric analysis.
 
-The project has a second component: connecting to professional application. This segment will invite non-academic professionals who use econometrics in practice to speak to students about their training, experience, and overall career paths.
+The project has a second component -- : connecting to professional application. This segment will invite non-academic professionals who use econometrics in practice to speak to students about their training, experience, and overall career paths.
 
 Timeline: in development, beta completed by summer, 2020.
 
