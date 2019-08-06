@@ -20,7 +20,7 @@ publication_types:
 - "3"
 publishDate: "2019-06-30T00:00:00Z"
 #slides: example
-summary: 
+summary: Does the primary career pipeline to Congress function as well for women as it does for men?
 tags:
 - Career progression
 - Progressive ambition

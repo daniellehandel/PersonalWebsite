@@ -20,7 +20,7 @@ publication_types:
 - "2"
 publishDate: "2016-03-30T00:00:00Z"
 #slides: example
-summary: 
+summary: How bad are endemic blackouts for firm productivity and production? 
 tags:
 - Electricity shortages
 - Firm productivity

@@ -23,7 +23,7 @@ publication_types:
 - "2"
 publishDate: "2017-06-30T00:00:00Z"
 #slides: example
-summary: 
+summary: Can observational studies that control for the right confounders approach experimental estimates?
 tags:
 - Selection bias
 - Experiments

@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   title = "Honors Thesis Program Coordinator"
   url = ""
   certificate_url = ""
-  date_start = "2019-08-30"
-  date_end = ""
+  date_start = "2018-08-30"
+  date_end = "2020-06-01"
   description = ""
 
 [[item]]

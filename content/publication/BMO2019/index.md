@@ -19,7 +19,7 @@ publication_types:
 - "3"
 publishDate: "2018-11-30T00:00:00Z"
 #slides: example
-summary: 
+summary: Do competitive electoral wins by women in lower levels of government spur later political participation by women at the national level?
 tags:
 - Career progression
 - Progressive ambition

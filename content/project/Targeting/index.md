@@ -20,4 +20,4 @@ url_slides: ""
 url_video: ""
 ---
 
-In collaboration with UNHCR and UN-WFP, my team (Onur Altındağ, Bentley University; Aytug Sasmaz, Harvard University; Zeynep Balcioglu, Northeastern University) and I have designed the targeting system for over USD300 million of annual unconditional cash and in-kind assistance to Syrian refugees in Lebanon. A manuscript about this work is available in <a href="../../publication/aosb2019/">research</a>.
+In collaboration with UNHCR and UN-WFP, my team (Onur Altındağ, Bentley University; Aytuğ Şaşmaz, Harvard University; Zeynep Balcıoğlu, Northeastern University) and I contribute to the design of the targeting system for over USD300 million of annual unconditional cash and in-kind assistance to Syrian refugees in Lebanon. A manuscript related to this work is available in <a href="../../publication/aosb2019/">research</a>.

@@ -18,7 +18,7 @@ publication_types:
 - "3"
 publishDate: "2019-05-31T00:00:00Z"
 #slides: example
-summary: 
+summary: Can private information from employers be used to better target job training programs?
 tags:
 - Skills
 - Job training

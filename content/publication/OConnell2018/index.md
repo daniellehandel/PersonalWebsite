@@ -19,7 +19,7 @@ publication_types:
 - "2"
 publishDate: "2018-08-31T00:00:00Z"
 #slides: example
-summary: 
+summary: Do female politicians generate role-model effects only when serving in local government, or do higher levels of government provide a similar platform to inspire younger generations? 
 tags:
 - Gender gap
 - Education

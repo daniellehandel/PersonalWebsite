@@ -13,13 +13,13 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Working paper*'
+publication: '*Review of Economics and Statistics (forthcoming)*'
 publication_short: ""
 publication_types:
 - "3"
 publishDate: "2018-10-31T00:00:00Z"
 #slides: example
-summary: 
+summary: Do political reservations for women generate candidates that climb the political career ladder?
 tags:
 - Career progression
 - Progressive ambition

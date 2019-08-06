@@ -46,8 +46,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="width: 70%; font-size: 1.5vw;">
+<div style="width: 70%; font-size: 1.25em;">
 <br><br>
 I am a labor and development economist focusing on the infrastructural determinants of firm creation and productivity, the role of institutions in producing gender gaps in education and career progression, and, most recently, the effect of information constraints on the targeting of large-scale social welfare programs. I joined the Department of Economics at Emory in the Fall of 2018. <br><br> Prior to that, I was a postdoctoral fellow in the Department of Economics at the Massachusetts Institute of Technology. I previously worked in economics consulting, and continue to collaborate with international or multilateral organizations on areas related to my research.
 </div>
-<br>
+<br><br><br><br>
+
