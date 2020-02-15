@@ -90,7 +90,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Visit site"
-  cta_url = "http://economics.emory.edu/home/undergraduate/honors-awards/honors-program.html"
+  cta_url = "http://economics.emory.edu/home/undergraduate/honors-and-awards/honors-program.html"
   cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
   

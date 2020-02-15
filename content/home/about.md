@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = "headers/test2.png"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -46,9 +46,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="width: 70%; font-size: 1.25em;">
-<br><br>
-I am a labor and development economist focusing on the infrastructural determinants of firm creation and productivity, the role of institutions in producing gender gaps in education and career progression, and, most recently, the effect of information constraints on the targeting of large-scale social welfare programs. I joined the Department of Economics at Emory in the Fall of 2018. <br><br> Prior to that, I was a postdoctoral fellow in the Department of Economics at the Massachusetts Institute of Technology. I previously worked in economics consulting, and continue to collaborate with international or multilateral organizations on areas related to my research.
-</div>
+<div style="width: 70%; font-size: 1.5em;">
 <br><br><br><br>
-
+<font size="+3">Assistant Professor of Economics</font><br>
+<font size="+2">Emory University</font><br><br><br>
+<font size="+3">Research Affiliate</font><br>
+<font size="+2">IZA Institute of Labor Economics</font><br><br>
+<br><br><br><br><br><br>
+</div>

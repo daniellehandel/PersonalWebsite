@@ -14,7 +14,7 @@
   weight = 25
 
 [[main]]
-  name = "Ongoing Projects"
+  name = "Other Projects"
   url = "#projects"
   weight = 35
 
@@ -22,8 +22,13 @@
 [[main]]
   name = "Teaching"
   url = "#courses"
-  weight = 50
+  weight = 40
 
+[[main]]
+  name = "Professional Stats"
+  url = "#refstats"
+  weight = 50
+  
 [[main]]
   name = "Contact"
   url = "#contact"

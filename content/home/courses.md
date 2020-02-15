@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   organization = "Emory University"
   organization_url = ""
   title = "Econometrics I (ECON 320)"
-  url = ""
+  url = "files/OConnell_Econ320_F2019.pdf"
   certificate_url = ""
   date_start = "2019-08-30"
   date_end = "2020-05-01"
-  description = ""
+  description = "(syllabus in link)"
 
 [[item]]
   organization = "Emory University"

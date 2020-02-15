@@ -30,7 +30,7 @@ tags:
 title: "How Do Electricity Shortages Affect Industry? Evidence from India"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "files/ACWO2016_AER_Shortages.pdf"
 url_poster: ""
 url_project: ""
 url_source: ""

@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "coffee"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "default"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -62,8 +62,7 @@ email = ""
 address = "PAIS Building 575, Emory University, Atlanta, GA, 30322, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Tuesday 13:00 to 14:00<br>
-                  Thursday 13:00 to 14:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/soconnell-emory/"

@@ -1,6 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  6 JUN 2019 23:04
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  28 OCT 2019 11:00
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **OConnell_CV.tex
 (./OConnell_CV.tex
@@ -549,26 +550,26 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 . 
 . Font family 'Tinos-Regular.ttf(0)' created for font 'Tinos-Regular.ttf' with
 . options
-. [Ligatures=TeX,Ligatures=TeX,Path=./Fonts/Tinos/,ItalicFont=Tinos-Italic,Bold
-Font=Tinos-Bold,BoldItalicFont=Tinos-BoldItalic].
+. [Ligatures=TeX,Ligatures=TeX,Path=/Library/Fonts/,ItalicFont=Tinos-Italic,Bol
+dFont=Tinos-Bold,BoldItalicFont=Tinos-BoldItalic].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"[./Fonts/Tinos/Tinos-Regular.ttf]/OT:script=latn;language=DFLT;mapping=te
-x-text;"
+. <->"[/Library/Fonts/Tinos-Regular.ttf]/OT:script=latn;language=DFLT;mapping=t
+ex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"[./Fonts/Tinos/Tinos-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
-ext;"
+. <->"[/Library/Fonts/Tinos-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-
+text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.:
-. <->"[./Fonts/Tinos/Tinos-Italic.ttf]/OT:script=latn;language=DFLT;mapping=tex
--text;"
+. <->"[/Library/Fonts/Tinos-Italic.ttf]/OT:script=latn;language=DFLT;mapping=te
+x-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"[./Fonts/Tinos/Tinos-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping
-=tex-text;"
+. <->"[/Library/Fonts/Tinos-BoldItalic.ttf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 38.
@@ -994,14 +995,14 @@ Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
 File: fc-english.def 2016/01/12
 )
-! Too many }'s.
+./OConnell_CV.tex:82: Too many }'s.
 l.82 }
       
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-! Undefined control sequence.
-l.101 \SmallEntryGap
+./OConnell_CV.tex:100: Undefined control sequence.
+l.100 \SmallEntryGap
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1009,8 +1010,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.115 \SmallEntryGap
+./OConnell_CV.tex:114: Undefined control sequence.
+l.114 \SmallEntryGap
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1018,8 +1019,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.129 \SmallEntryGap
+./OConnell_CV.tex:127: Undefined control sequence.
+l.127 \SmallEntryGap
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1027,8 +1028,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.135 \SmallEntryGap
+./OConnell_CV.tex:133: Undefined control sequence.
+l.133 \SmallEntryGap
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1036,10 +1037,28 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./OConnell_CV.tex:152: Undefined control sequence.
+l.152 \SmallEntryGap
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./OConnell_CV.tex:161: Undefined control sequence.
+l.161 \SmallEntryGap
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./OConnell_CV.tex:198: Undefined control sequence.
 <argument> ...vol.~135, pp.~478-487, \datestampYM 
                                                   {2018}{} 
-l.193 ...~135, pp.~478-487, \datestampYM{2018}{} }
+l.198 ...~135, pp.~478-487, \datestampYM{2018}{} }
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1047,95 +1066,89 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Missing number, treated as zero.
+./OConnell_CV.tex:214: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.209 \DatestampYM{2017}{}.}
+l.214 \DatestampYM{2017}{}.}
                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-! Missing number, treated as zero.
+./OConnell_CV.tex:224: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.219 \DatestampYM{2016}{}.}
+l.224 \DatestampYM{2016}{}.}
                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-! Missing number, treated as zero.
+./OConnell_CV.tex:233: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.228 \DatestampYM{2015}{}.}
+l.233 \DatestampYM{2015}{}.}
                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-! Missing number, treated as zero.
+./OConnell_CV.tex:249: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.244 \DatestampYM{2015}{}.}
+l.249 \DatestampYM{2015}{}.}
                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 244--245
+Underfull \hbox (badness 1688) in paragraph at lines 249--250
 [][]\TU/Tinos-Regular.ttf(0)/m/n/10 Klaus Desmet, Ejaz Ghani, Stephen D. O’Conn
 ell and Esteban Rossi-Hansberg, “The Spatial
  []
 
-! Missing number, treated as zero.
+./OConnell_CV.tex:259: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.254 \DatestampYM{2014}{}.}
+l.259 \DatestampYM{2014}{}.}
                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-! Missing number, treated as zero.
+./OConnell_CV.tex:271: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.266 \DatestampYM{2013}{}.}
+l.271 \DatestampYM{2013}{}.}
                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-! Missing number, treated as zero.
+./OConnell_CV.tex:281: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.276 \DatestampYM{2013}{} (special issue).}
+l.281 \DatestampYM{2013}{} (special issue).}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
 []|\TU/Tinos-Regular.ttf(0)/bx/n/9 SEMINARS AND
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--361
+Underfull \hbox (badness 10000) in paragraph at lines 366--366
 []|\TU/Tinos-Regular.ttf(0)/bx/n/9 PROFESSIONAL
  []
 
-
-Underfull \hbox (badness 1939) in paragraph at lines 362--363
-\TU/Tinos-Regular.ttf(0)/m/n/10 Journal of Regional Science, Journal of Economi
-c Geography*, Regional Studies, Journal of
- []
-
-! Misplaced \noalign.
+./OConnell_CV.tex:443: Misplaced \noalign.
 \newpage ->\noalign 
                     {\break }
-l.438 \newpage
+l.443 \newpage
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1143,21 +1156,21 @@ an alignment. Proceed, and I'll ignore this case.
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 447.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 452.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 447.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 452.
  (./OConnell_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 447.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 447.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 452.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 452.
 Package rerunfilecheck Info: File `OConnell_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 775ECE235A00EEE65AE740C8FEB9C13B.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 447.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 452.
  ) 
 Here is how much of TeX's memory you used:
- 23013 strings out of 492970
- 424753 string characters out of 6133938
- 544123 words of memory out of 5000000
- 26872 multiletter control sequences out of 15000+600000
+ 23014 strings out of 492970
+ 424787 string characters out of 6133938
+ 541122 words of memory out of 5000000
+ 26873 multiletter control sequences out of 15000+600000
  530768 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  41i,6n,65p,10453b,444s stack positions out of 5000i,500n,10000p,200000b,80000s

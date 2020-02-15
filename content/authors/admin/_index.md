@@ -9,7 +9,7 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2016-2018
   - course: PhD, Economics
-    institution: City U. of New York
+    institution: City Univ. of New York
     year: 2016
   - course: BA, Economics
     institution: Boston College
